@@ -32,4 +32,4 @@ Attribute Information:
 
 The figure below illustrates the most important mushroom characteristics used in the UCI Mushroom dataset, including gill size, odor, population, ring type, stalk surface, and spore print color.
 
-![Important Mushroom Features](images/mushroom_picture.png)
+![Important Mushroom Features](mushroom_picture.png)
